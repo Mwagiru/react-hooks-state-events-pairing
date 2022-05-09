@@ -10,3 +10,9 @@ body {
 .App {
   text-align: center;
 }
+.block {
+  display: block;
+}
+.none {
+  display: none;
+}
